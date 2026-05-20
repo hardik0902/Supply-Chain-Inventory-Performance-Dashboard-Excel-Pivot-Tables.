@@ -12,8 +12,7 @@ This project presents a comprehensive **annual sales analysis** for Vrinda Store
 
 ## 🖼️ Dashboard Preview
 
-<img width="1029" height="453" alt="Viranda store dashboard" src="https://github.com/user-attachments/assets/7450cdf7-8877-4919-82df-e050c8d69360" />
-
+![Vrinda Store Dashboard](Viranda_store_dashboard.png)
 
 ---
 
@@ -66,8 +65,8 @@ This project presents a comprehensive **annual sales analysis** for Vrinda Store
 
 | File | Description |
 |---|---|
-| `Vrinda_Store_Data_Analysis.xlsx ` | Raw data + cleaned data + pivot tables + dashboard |
-| `Vrinda_store_dashboard.png` | Screenshot of the final interactive dashboard |
+| `Vrinda_Store_Data_Analysis.xlsx` | Raw data + cleaned data + pivot tables + dashboard |
+| `Viranda_store_dashboard.png` | Screenshot of the final interactive dashboard |
 | `README.md` | Project documentation (this file) |
 
 ---
@@ -80,9 +79,9 @@ This project presents a comprehensive **annual sales analysis** for Vrinda Store
 
 ## 👤 Author
 
-**HARDIK GUPTA**
-📧 hardikgupta9802@gmail.com 
-🔗 https://www.linkedin.com/in/hardikg98/ 
+**[Your Name]**
+📧 [your.email@gmail.com]
+🔗 [LinkedIn Profile URL]
 
 ---
 
