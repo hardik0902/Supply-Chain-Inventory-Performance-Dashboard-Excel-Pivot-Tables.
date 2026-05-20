@@ -12,7 +12,8 @@ This project presents a comprehensive **annual sales analysis** for Vrinda Store
 
 ## 🖼️ Dashboard Preview
 
-![Vrinda Store Dashboard](Viranda_store_dashboard.png) 
+<img width="1029" height="453" alt="Vrinda store dashboard" src="https://github.com/user-attachments/assets/f01d6b9f-85b7-4868-9e47-0372bed9f42a" />
+
 
 ---
 
